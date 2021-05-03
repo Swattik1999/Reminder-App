@@ -1,0 +1,6 @@
+Project API = http://localhost:5000/api/sendmail (POST)
+
+
+
+QnA: 3. I'm willing to join immediate as an employee.
+     4. Yes, I want to come at Ruby, Kolkata.
